@@ -10,7 +10,7 @@
 ## 2. Tech Stack
 | Category | Tech Stack |
 | :--- | :--- |
-| **Backend** | Java 17, Spring Boot, JPA, Security (JWT), **LMAX Disruptor** |
+| **Backend** | Java 25, Spring Boot, JPA, Security (JWT), **LMAX Disruptor** |
 | **Database** | **PostgreSQL 16**, Redis 7.2 |
 | **Infra** | AWS (EC2, RDS, Route 53, ALB), Docker, GitHub Actions |
 | **Monitoring** | k6, Prometheus, Grafana |
@@ -21,9 +21,9 @@
 * **Infra Optimization**: AWS Graviton3 인스턴스 및 리전 최적화
 
 ## 4. 담당 역할 (Key Contributions)
-* **체결 엔진 코어**: Disruptor 기반 매칭 로직 설계 및 구현 (유진 님 담당)
+* **체결 엔진 코어**: Disruptor 기반 매칭 로직 설계 및 구현
 * **데이터 파이프라인**: 주문 수집부터 비동기 저장까지의 Full-flow 설계
-* **인프라 총괄**: AWS 리전 마이그레이션 및 인스턴스 사양 최적화
+* **인프라**: AWS 리전 마이그레이션 및 인스턴스 사양 최적화
 
 ---
 
