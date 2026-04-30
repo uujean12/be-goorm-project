@@ -15,6 +15,7 @@ Heartbit은 실시간 거래 데이터를 활용한 모의 투자 거래 플랫�
 <img width="1920" height="932" alt="스크린샷 2026-01-29 오후 5 39 11" src="https://github.com/user-attachments/assets/df2a2a55-f31c-4aae-be9e-b89c76cef00d" />
 
 <br>
+
 ### 주요 서비스
 
 - **주문**: 원하는 종목을 매수/매도하고 체결 결과를 실시간 알림으로 확인
