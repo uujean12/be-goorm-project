@@ -12,7 +12,7 @@ Heartbit은 실시간 거래 데이터를 활용한 모의 투자 거래 플랫�
 
 <br>
 
-<img width="1920" height="932" alt="스크린샷 2026-01-29 오후 5 39 11" src="https://github.com/user-attachments/assets/df2a2a55-f31c-4aae-be9e-b89c76cef00d" />
+<img width="1453" height="833" alt="Group 19" src="https://github.com/user-attachments/assets/2550d25e-6f1f-448f-b93d-2e60cc7ea0df" />
 
 <br>
 
